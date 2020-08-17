@@ -1,0 +1,10 @@
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\bin\Debug\ChessFull.exe.config
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\bin\Debug\ChessFull.exe
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\bin\Debug\ChessFull.pdb
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\bin\Debug\CoreGame.dll
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\bin\Debug\CoreGame.pdb
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\obj\Debug\ChessFull.csprojAssemblyReference.cache
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\obj\Debug\ChessFull.csproj.CoreCompileInputs.cache
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\obj\Debug\ChessFull.csproj.CopyComplete
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\obj\Debug\ChessFull.exe
+c:\users\legendarhome\source\repos\ChessFull\ChessFull\obj\Debug\ChessFull.pdb

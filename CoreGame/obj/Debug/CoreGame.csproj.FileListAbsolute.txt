@@ -1,0 +1,6 @@
+c:\users\legendarhome\source\repos\ChessFull\CoreGame\bin\Debug\CoreGame.dll
+c:\users\legendarhome\source\repos\ChessFull\CoreGame\bin\Debug\CoreGame.pdb
+c:\users\legendarhome\source\repos\ChessFull\CoreGame\obj\Debug\CoreGame.csprojAssemblyReference.cache
+c:\users\legendarhome\source\repos\ChessFull\CoreGame\obj\Debug\CoreGame.csproj.CoreCompileInputs.cache
+c:\users\legendarhome\source\repos\ChessFull\CoreGame\obj\Debug\CoreGame.dll
+c:\users\legendarhome\source\repos\ChessFull\CoreGame\obj\Debug\CoreGame.pdb

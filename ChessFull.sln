@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreGame", "CoreGame\CoreGame.csproj", "{82FD5F4E-AAF7-4C76-BF8B-DF0282EAA9B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{5EE825AA-14A8-4585-BC43-7990F0D6DA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82FD5F4E-AAF7-4C76-BF8B-DF0282EAA9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FD5F4E-AAF7-4C76-BF8B-DF0282EAA9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FD5F4E-AAF7-4C76-BF8B-DF0282EAA9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FD5F4E-AAF7-4C76-BF8B-DF0282EAA9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE825AA-14A8-4585-BC43-7990F0D6DA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE825AA-14A8-4585-BC43-7990F0D6DA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE825AA-14A8-4585-BC43-7990F0D6DA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE825AA-14A8-4585-BC43-7990F0D6DA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7BB129-63EE-4DC5-A159-24CA401BE4EF}
+	EndGlobalSection
+EndGlobal
